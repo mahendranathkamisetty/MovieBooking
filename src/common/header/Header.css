@@ -1,0 +1,24 @@
+Header{
+    background-color: #222;
+    height: 36px;
+    padding: 8px 32px 8px 16px;
+    display: inline-flex;
+    justify-content: space-between;
+    width: 97%;
+}
+
+.logo{
+    background-color: #ff7f7f;
+    height: 35px;
+    float: left;
+    animation: rotate 8s linear infinite;
+}
+.book-show-btn{
+    margin-left: 78% !important;
+}
+
+@keyframes rotate {
+  from{
+       transform: scaleX(-1);
+   }
+}

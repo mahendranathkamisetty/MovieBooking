@@ -1,0 +1,32 @@
+.btn{
+    margin-left: 24px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    height: 24px;
+    text-decoration-line: none;
+    color: black;
+}
+.book{
+    display: flex;
+    justify-content: space-between;
+}
+.detials-left{
+    width: 20%;
+    margin-left: 9px;
+}
+.details-middle{
+    width: 60%;
+    margin-left: 30px;
+    margin-top: -25px;
+}
+.details-right{
+    width: 20%;
+    margin-left: 30px;
+    margin-right: 9px;
+}
+.star:hover{
+    color: orange;
+}
+.bookshow-btn {
+    text-decoration-line: none;
+}

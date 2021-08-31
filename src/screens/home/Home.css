@@ -1,0 +1,23 @@
+.home{
+    background-color: #ff9999;
+    padding: 8px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.flex-container{
+    display: flex;
+  
+  }
+  .left{
+     margin: 16px;
+    width: 76%;
+  }
+  .right{
+    width: 24%;
+   margin: 16px;
+  }
+  img:hover{
+    cursor: pointer;
+  }
+  
